@@ -1,3 +1,3 @@
-#h1 MasterMind
+#H1 MasterMind
 
 Simple graphic version of Mastermind in python realised with pygame library.
