@@ -1,8 +1,3 @@
-'''
-Graphic version of MasterMind realised with pygame library.
-author: Kacper Duda
-'''
-
 from constants import *
 from random import sample, randint
 from time import sleep
